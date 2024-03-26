@@ -14,7 +14,8 @@ with col1:
   st.markdown("""
 My name is Kristina Litau, I am a self-starting front-end developer and a life-time athlete based in Spokane, Washington.
 
-
+As I'm in the early stage of a web development journey, I love learning about the front-end development, 
+creating visually-appealing and user-friendly interfaces!
 
 I have a strong technical background and passion for problem solving gained
 through my Bachelor's in Industrial & Systems Engineering and 2 years of work with
